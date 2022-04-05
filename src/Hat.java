@@ -3,5 +3,7 @@ public class Hat {
 
     // Hat is needed every season
 
+    // Hat is cover my baldness:)
+
 
 }
